@@ -1,0 +1,8 @@
+.DS_Store
+*.pdf
+*.aux
+*.log
+*.lof
+*.lot
+*.synctex.gz
+*.toc
